@@ -1,10 +1,9 @@
-# Experiment 5 and 6
-**Experiment 5** <br>
-<br>
-**Aim:** <br>
+# Experiment 5
+
+# Aim: <br>
 To study and implement C++ decision making statements. <br>
-<br>
-**Theory:** <br>
+
+# Theory: <br>
 Conditional statements allow you to make decisions within your programs. Specifically they can be used to execute specific blocks of code for particular situations only. <br>
 There are four primary conditional statements in C language: _if statement_, _if-else statement_,_ if-else if-else statement_, and _switch statement_. <br> 
 _if:_ The simplest form among conditionals where a certain condition is evaluated and if it evaluates true then certain flow control unit executes its commands. <br>
@@ -12,7 +11,7 @@ _if-else:_ This is an extension of the first form since we have the alternative 
 _if-elseif-else:_ This enables the evaluation of several conditions sequentially until it finds one which is true whereby if this happens its contained or associated block will be executed while ignoring all other blocks. <br>
 _switch case:_ This facilitates picking one among many subprograms depending on a variable’s value. So rather than using multiple nested if-else statements we can use switch instead.<br>
 <br>
-**Code:** <br>
+# Code: <br>
 
 ```
 #include <iostream>
@@ -125,14 +124,7 @@ int main()
 }
 ```
 
-<br>
-
-**Output:** <br>
-
-![exp5](https://github.com/tanishaamenon/CDS---Control-Statements/blob/main/exp5.JPG)
-<br>
-
-**Conclusion:** <br>
+# Conclusion: <br>
 &#8594; We learnt about conditional statements and their use case. <br>
 &#8594; We learnt how to utilize these statements efficiently. <br>
 <br>
