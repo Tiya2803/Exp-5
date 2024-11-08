@@ -124,6 +124,13 @@ int main()
 }
 ```
 
+# Output: 
+
+![image](https://github.com/user-attachments/assets/6ef95412-a180-45d0-b168-768a2db0b72d)<br>
+![image](https://github.com/user-attachments/assets/3e7ea3f8-4147-4824-846c-02748a58e277)
+
+
+
 # Conclusion: <br>
 &#8594; We learnt about conditional statements and their use case. <br>
 &#8594; We learnt how to utilize these statements efficiently. <br>
